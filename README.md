@@ -1,2 +1,2 @@
 # Bama-Studios
-Simple website using HTML, CSS, JavaScript.
+Simple website using HTML, CSS
